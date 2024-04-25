@@ -66,7 +66,7 @@ function Main() {
                 <img
                   src={imageSrc}
                   className="img-fluid rounded-start"
-                  alt="Seasonal Image"
+                  alt="seasonal"
                 />
               </div>
               <div className="col">
