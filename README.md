@@ -1,11 +1,15 @@
 **SeasonsReact**
+
  A simple React application that showcases the beauty of different seasons through images and descriptions.
 
 *SeasonsReact* allows users to explore various seasons 
 
 **Summer** 
+
 **Winter**
+
 **Rain**
+
 **Autumn**  and **Spring** - by clicking on corresponding buttons.
 
 When a button is clicked, the application updates the image and description to reflect the selected season.
